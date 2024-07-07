@@ -11,7 +11,7 @@ If the player falls to the canyon or touches the enemy, the player dies and lose
 The user should gather five fruits to get the maximum points.
 
 ## How to play:
-'W': Jump<br>
-'A': Move Left <br>
-'D': Move Right 
+'w': Jump<br>
+'a': Move Left <br>
+'d': Move Right 
 
